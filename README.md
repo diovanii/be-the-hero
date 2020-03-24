@@ -4,7 +4,7 @@
 
 <br>
 
-![Omnistack](/home/diovani/Pictures/omnistack_resized.jpg)
+![Omnistack](https://i.postimg.cc/15j4gZCW/omnistack-resized.jpg)
 
 <br>
 
