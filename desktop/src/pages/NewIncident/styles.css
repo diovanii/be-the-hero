@@ -1,0 +1,52 @@
+.new-incident {
+  width: 100%;
+  max-width: 1120px;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.new-incident__card {
+  width: 100%;
+  padding: 95px;
+  background-color: #F0F0F5;
+  box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card__left {
+  width: 100%;
+  max-width: 380px;
+}
+
+.card__title {
+  color: #404040;
+  margin: 80px 0 40px 0;
+  font-size: 32px;
+}
+
+.card__paragraph {
+  max-width: 80%;
+  font-size: 16px;
+  color: #555;
+  line-height: 20px;
+  margin-bottom: 40px;
+}
+
+.link__icon {
+  margin-right: 10px;
+}
+
+.form__input {
+  margin: 10px 0;
+}
+
+.form__button {
+  margin-top: 10px;
+}
+
