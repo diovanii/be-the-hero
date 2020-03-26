@@ -1,0 +1,108 @@
+.profile {
+  width: 100%;
+  max-width: 1180px;
+  padding: 0 30px;
+  margin: 32px auto;
+}
+
+.profile__header {
+  display: flex;
+  align-items: center;
+}
+
+.header__text {
+  color: #444;
+  font-size: 18px;
+  margin-left: 20px;
+}
+
+.header__logo {
+  height: 64px;
+}
+
+.header__button {
+  width: 260px;
+  margin-left: auto;
+}
+
+.header__logout {
+  height: 60px;
+  width: 60px;
+  display: flex;
+  background-color: transparent;
+  border: none;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  margin-left: 16px;
+  position: relative;
+}
+
+.header__logout > .logout__icon {
+  color: #E02041;
+}
+
+.header__logout:hover > .logout__icon {
+  color: #BC0F2C;
+}
+
+.profile .logout__icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: .3s;
+}
+
+.incidents__title {
+  color: #222;
+  font-size: 24px;
+  margin: 80px 0 24px 0;
+}
+
+.incidents__list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 24px;
+  list-style: none;
+}
+
+.incident {
+  background-color: #FFF;
+  padding: 25px;
+  border-radius: 5px;
+  position: relative;
+}
+
+.incident__button {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  border: 0;
+  background-color: #FFF;
+}
+
+.incident__button > .button__icon {
+  color: #A8A8B3;
+  transition: color .3s;
+}
+
+.incident__button:hover > .button__icon {
+  color: #E02041;
+}
+
+.incident__title {
+  color: #353535;
+  font-size: 18px;
+}
+
+.incident__description {
+  font-size: 16px;
+  margin: 18px 0;
+  color: #444;
+}
+
+.incident__value {
+  color: #505050;
+  font-size: 14px; 
+}
