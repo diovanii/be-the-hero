@@ -24,7 +24,7 @@ This app helps ONGs to register incidents and search for a "Hero" that can help 
 <br>
 
 * [Desktop version](#computer-desktop-version)
-* [Mobile version](#iphone-desktop-version)
+* [Mobile version](#iphone-mobile-version)
 * [Instructor](#man-instructor)
 * [The goal](#running-the-goal)
 * [Maintainer](#boy-maintainer)
