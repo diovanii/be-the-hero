@@ -18,7 +18,7 @@
 <br>
 <br>
 
-This app helps ONGs to register incidents and search for a "Hero" that can help it with a monetary value
+This App helps ONGs to register incidents and search for a ‘hero’ who can support with monetary value
 
 <br>
 <br>
